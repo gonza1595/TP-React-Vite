@@ -10,8 +10,11 @@ Luego tenemos la ruta Componentes donde dentro de ella hay 3 ejemplos distintos,
 
 Por ultimo tenemos una ruta llamada Administracion donde vamos a tener una tabla con distintos productos con su titulo, precio, descripcion, categoria e imagen. Estos productos los consumimos de la API https://fakestoreapi.com/. Podremos crear nuevos productos, editar y eliminar los productos.
 
--Tecnologias usadas
+Tecnologias usadas
 
+- React
+- TypeScript
+- Vite
 - react-bootstrap
 - react-bootstrap- icons
 - YUP (Es una biblioteca de valdiacion para Javascript que te permite definir reglas para validar datos facilmente, es una herramienta para asegurarte de que los datos tengan el formato correcto)
