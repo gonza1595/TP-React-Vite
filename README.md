@@ -19,3 +19,5 @@ Por ultimo tenemos una ruta llamada Administracion donde vamos a tener una tabla
   -react-toastify (Para las notificaciones)
 
 Para poder ejecutar este proyecto deberas clonar este repositorio, abrir visual studio code y escribir en la terminal el siguiente comando: npm install. De esta forma instalaras todas las dependencias necesarias para poder ejecutarlo. Luego en la terminal deberas escribir "cd .\Practico-React-Vite-Typescript\" sin las comillas para acceder a la carpeta del proyecto. Para finalizar deberas ejecutar el comando "npm run dev" y te aparecera en la terminal Local: http://127.0.0.1:5173/, tienes que hacer "ctrl + click" en la URL y te abrira el proyecto en el navegador.
+
+Deploy Link: https://tp-react-vite-xi.vercel.app/
